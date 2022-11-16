@@ -11,7 +11,7 @@ Use the following files:
 
 When you're done, copy the test to replace those snippets:
 
-## Test 1
+## Design Idea 1
 
 ```ts
 test("5% discount", () => {
@@ -19,7 +19,7 @@ test("5% discount", () => {
 });
 ```
 
-## Test 2
+## Design Idea 2
 
 ```ts
 test("5% discount", () => {

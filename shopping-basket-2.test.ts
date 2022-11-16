@@ -1,5 +1,7 @@
-import { expect, test } from "@jest/globals";
+import { describe, expect, test } from "@jest/globals";
 
-test("true is false", () => {
-  expect(true).toBe(false);
+describe("Shopping Basket Discount", () => {
+  test("true is false", () => {
+    expect(true).toBe(false);
+  });
 });
