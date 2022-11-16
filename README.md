@@ -6,4 +6,3 @@ This is a Learning Hour based on https://sammancoaching.org/learning_hours/small
 [Example-guided Design](example-guided-design.md)
 [Exercise: Shopping Basket](exercise-shopping-basket.md)
 [Conclusions](conclusions.md)
-
