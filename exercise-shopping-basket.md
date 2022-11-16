@@ -16,3 +16,8 @@ Keep using the test files:
 
 - [shopping-basket-1.test.ts](shopping-basket-1.test.ts)
 - [shopping-basket-2.test.ts](shopping-basket-2.test.ts)
+
+Run the tests by either:
+
+1. Click the 'Run' action in the test file
+2. Run `npx jest 1` / `npx jest 2`
