@@ -2,3 +2,4 @@
 vscode:
   extensions:
     - yzhang.markdown-all-in-one
+    - firsttris.vscode-jest-runner
