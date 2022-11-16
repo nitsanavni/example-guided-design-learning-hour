@@ -5,5 +5,5 @@ This is a Learning Hour based on https://sammancoaching.org/learning_hours/small
 [Convert Example to Test Case](convert-example-to-test-case.md)
 [Example-guided Design](example-guided-design.md)
 [Exercise: Shopping Basket](exercise-shopping-basket.md)
-
+[Conclusions](conclusions.md)
 

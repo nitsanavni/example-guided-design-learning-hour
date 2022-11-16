@@ -10,4 +10,4 @@ Suggested test list:
 - two items, $50 and $20
 - one item $160 (5% discount)
 - one item $250 (10% discount)
-- Finally - go back to original example
+- Finally - go back to the [original example](https://sammancoaching.org/kata_descriptions/shopping_basket.html)
