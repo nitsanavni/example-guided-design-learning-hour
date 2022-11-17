@@ -4,4 +4,4 @@
 
 - [ ] Work through several scenarios and examples.
 - [ ] Focus on the interface, not the implementation. Make it easy to work with.
-- [ ] Use the thing **before** you impelment it.
+- [ ] Use the thing **before** you implement it.

@@ -1,5 +1,7 @@
 # Exercise: Shopping Basket Discount
 
+Work in a pair.
+
 Don't start with the test for a 5% discount!
 
 Suggested test list:
